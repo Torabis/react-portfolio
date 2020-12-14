@@ -1,0 +1,59 @@
+[
+    {
+    "id": 1,
+    "name": "Budget Tracker",
+    "image": "",
+    "github": "https://github.com/Torabis/budget-tracker",
+    "deployed": "https://quiet-headland-81773.herokuapp.com/"
+    },
+    {
+    "id": 2,
+    "name": "JobedIn",
+    "image": "",
+    "github": "https://github.com/rongbangye/JobedIn",
+    "deployed": "https://fathomless-stream-49781.herokuapp.com/"
+    },
+    {
+    "id": 3,
+    "name": "Tech Blog",
+    "image": "",
+    "github": "https://github.com/Torabis/Tech-Blog",
+    "deployed": "https://torabis-tech-blog.herokuapp.com/"
+
+    },
+    {
+    "id": 4,
+    "name": "Social Network API",
+    "image": "",
+    "github": "https://github.com/Torabis/social-network-api",
+    "deployed": "https://drive.google.com/file/d/1obZEdoSWFj9QZHbscRPFMm7FmLtn3FjI/view"
+    },
+    {
+    "id": 5,
+    "name": "Note Taker",
+    "image": "",
+    "github": "https://github.com/Torabis/Note-Taker",
+    "deployed": "https://note-taker-ucb.herokuapp.com/"
+    },
+    {
+    "id": 6,
+    "name": "E-commerce Back End",
+    "image": "",
+    "github": "https://github.com/Torabis/E-commerce-Back-End",
+    "deployed": "hhttps://drive.google.com/file/d/1IIXB1PRSnRZYgr7PtsErVlHp5Vj2FR3-/view"
+    },
+    {
+    "id": 7,
+    "name": "Work Day Scheduler",
+    "image": "",
+    "github": "https://github.com/Torabis/WorkDayScheduler",
+    "deployed": "https://torabis.github.io/WorkDayScheduler/"
+    },
+    {
+    "id": 8,
+    "name": "Team Profile Generator",
+    "image": "",
+    "github": "Github: https://github.com/Torabis/Team-Profile-Generator",
+    "deployed": "Video: https://drive.google.com/file/d/1Nmw-JpgSphmOJN-WYkpTIVmBn-dROsTl/view"
+    }
+]
