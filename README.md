@@ -4,7 +4,7 @@
 
 This is my personal portfolio created using REACT.
 
-[View my Portfolio!](https://github.com/Torabis/react-portfolio)
+[View my Portfolio!](https://torabis.github.io/react-portfolio/)
 
 ## Questions
 Follow the link to my gitHub profile [Torabis](https://github.com/Torabis).
