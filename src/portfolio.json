@@ -2,7 +2,7 @@
   {
     "id": 9,
     "name": "Redux Store",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/Torabis/react-portfolio/main/src/assets/projects/redux.png",
     "github": "https://github.com/Torabis/shop-shop",
     "deployed": "https://torabis-redux-store.herokuapp.com/"
   },
