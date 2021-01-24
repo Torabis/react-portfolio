@@ -2,7 +2,7 @@
   {
     "id": 10,
     "name": "Coffe House",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/Torabis/react-portfolio/main/src/assets/projects/coffee.png",
     "github": "https://github.com/Torabis/coffeehouse",
     "deployed": "https://torabis-coffeehouse.herokuapp.com/"
   },
