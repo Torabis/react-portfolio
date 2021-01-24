@@ -1,5 +1,12 @@
 [
   {
+    "id": 10,
+    "name": "Coffe House",
+    "image": "",
+    "github": "https://github.com/Torabis/coffeehouse",
+    "deployed": "https://torabis-coffeehouse.herokuapp.com/"
+  },
+  {
     "id": 9,
     "name": "Redux Store",
     "image": "https://raw.githubusercontent.com/Torabis/react-portfolio/main/src/assets/projects/redux.png",
