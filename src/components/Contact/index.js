@@ -8,7 +8,7 @@ class ContactForm extends Component {
             <hr></hr>
             <br />
                 <div className="row justify-content-center">
-                <div className="col-10 section-content">
+                <div className="section-content">
                         <h2 className="font-weight-bold">
                         <a href="mailto: sadihome@gmail.com">Email: codart.us@gmail.com</a></h2>
                         <br />

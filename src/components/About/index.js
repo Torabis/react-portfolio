@@ -1,22 +1,32 @@
-import React, { Component } from 'react';
-import coverImage from '../../assets/profile-picture/profilepic.png';
+import React, { Component } from "react";
+import coverImage from "../../assets/profile-picture/profilepic.png";
 
 class About extends Component {
-    render() {
-        return (
-            <section className="section-title container">
-                <h1>Toby Torabi</h1>
-                <hr></hr>
-                <div className="row justify-content-center">
-                    <div className="col-10 section-content">
-                        <img className="mt-3 mb-5 me" src={coverImage} alt=" Torabis"/>
-                        <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris commodo quis imperdiet massa tincidunt nunc. Amet consectetur adipiscing elit duis tristique. Mi tempus imperdiet nulla malesuada pellentesque elit eget gravida. Amet tellus cras adipiscing enim. Tristique sollicitudin nibh sit amet commodo nulla. Quam id leo in vitae turpis massa sed elementum. Parturient montes nascetur ridiculus mus mauris vitae ultricies leo integer. Venenatis tellus in metus vulputate eu scelerisque felis. Nisi quis eleifend quam adipiscing vitae proin. Mauris nunc congue nisi vitae. Pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus nisl. Risus ultricies tristique nulla aliquet enim tortor at auctor urna. Fermentum odio eu feugiat pretium nibh ipsum consequat nisl vel.
-                        </p>
-                    </div>  
-            </div>
-        </section> 
-    )}
+  render() {
+    return (
+      <section className="section-title container">
+        <h1>Toby Torabi</h1>
+        <hr></hr>
+        <div className="row justify-content-center">
+          <div className="col-10 section-content">
+            <img className="mt-3 mb-5 me" src={coverImage} alt=" Torabis" />
+            <p>
+              || Full Stack Web Developer || <br/>
+              Seeking to obtain a creative and
+              challenging position that utilizes current knowledge of web
+              development and design. <br/>
+              Having a positive outlook and always
+              willing to learn new traits. Certified from University Of Berkeley
+              in full stack technologies to design, deploy and test Web
+              Applications.
+              A troubleshooter with background of Information
+              Technology Support to break down problems and build a new
+              solutions.
+            </p>
+          </div>
+        </div>
+      </section>
+    );
+  }
 }
 export default About;
-
