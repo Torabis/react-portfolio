@@ -10,7 +10,7 @@ class ContactForm extends Component {
                 <div className="row justify-content-center">
                 <div className="col-10 section-content">
                         <h2 className="font-weight-bold">
-                        <a href="mailto: sadihome@gmail.com">Email: sadihome@gmail.com</a></h2>
+                        <a href="mailto: sadihome@gmail.com">Email: codart.us@gmail.com</a></h2>
                         <br />
                         <br />
                         <div>
